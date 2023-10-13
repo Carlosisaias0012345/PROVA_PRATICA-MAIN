@@ -1,0 +1,12 @@
+.h1{
+    background-color: #3629CB;
+}
+
+li{
+    text-decoration: none;
+}
+
+.navbar{
+    display: flex;
+    background-color: #000;
+}
